@@ -1,0 +1,1 @@
+just enter mb bank username and password and if entered correctly it will run on localhost port 5000 and look like http://localhost:5000/get-transaction-history?accountNo=< account number to check transaction history>
